@@ -1,0 +1,6 @@
+services:
+  website:
+    image: ghcr.io/equicord/equiobserver:latest
+    ports:
+      - "127.0.0.1:3000:3000"
+    restart: unless-stopped
