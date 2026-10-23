@@ -2,6 +2,7 @@
     "name": "equiobserver",
     "version": "1.0.0",
     "description": "TestFlight Observer",
+    "author": "thororen1234",
     "main": "index.js",
     "type": "module",
     "scripts": {
